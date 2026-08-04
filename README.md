@@ -1,55 +1,85 @@
-<h2 align="left">Olá! Meu nome é Erick</h2>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Erick%20Cabral&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-###
+<h1 align="center">Olá! 👋 Eu sou Erick Cabral</h1>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erickcabrald&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickcabrald&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
 
-<h2>Tecnologias</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
+## 💫 Sobre mim
 
-###
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade CEUMA**
 
-<div align="left">
-  <a href="www.linkedin.com/in/erick-cabral-9b3b7328b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+💻 Tenho foco no desenvolvimento **Backend**, criando APIs escaláveis e bem estruturadas.
 
-###
+📚 Atualmente estudando arquitetura de software, bancos de dados, microsserviços e boas práticas de desenvolvimento.
 
-<br clear="both">
+🚀 Sempre em busca de aprender novas tecnologias e construir projetos que gerem impacto.
 
-<img src="https://raw.githubusercontent.com/erickcabrald/erickcabrald/output/snake.svg" alt="Snake animation" />
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-###
+---
+
+## 🚀 Tecnologias
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,nestjs,express,java,react,prisma,postgres,mysql,socketio,git,github,html,css,vscode&perline=8"/>
+</p>
+
+---
+
+## 📈 Estatísticas
 
 <div align="center">
-  <img height="200" src="https://tenor.com/eDIc1UjbaRK.gif"  />
+
+<img
+  height="180em"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=erickcabrald&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickcabrald&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-###
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=erickcabrald&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Atividade
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=erickcabrald&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🌎 Contato
+
+<p align="center">
+<a href="SEU_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
+
+
+<p align="center">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDg5ZjJka2g5c3BsZ3phdXU5OG9henpxZGM5NmpodGVubDRjNWJ4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=erickcabrald&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+</p>
