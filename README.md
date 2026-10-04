@@ -29,7 +29,7 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,nodejs,nestjs,express,fastify,java,prisma,postgres,mysql,git,github,vscode,docker,linux&perline=9"/>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,nestjs,express,fastify,java,prisma,postgres,mysql,git,github,vscode,docker,linux&perline=9"/>
 </p>
 
 ---
