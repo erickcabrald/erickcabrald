@@ -30,11 +30,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,nestjs,express,java,prisma,postgres,mysql,git,github,vscode,docker,linux&perline=9"/>
+    <img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify" />
-</p>
 
 ---
 
